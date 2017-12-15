@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     File file;
-    public static String token = "127,14,127,127,15,125,8,122,122,14,8,1,120,122,14,8,124,122,0,120,122,14,9,0,11,123,12,125,124,1,125,124";
+    public static String token = "";
     /***
      * token自行抓包获取
      */
